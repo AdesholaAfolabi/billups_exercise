@@ -1,0 +1,23 @@
+# PyCharm config
+./idea*
+.idea
+
+# Compiled Python files
+*.pyc
+__pycache__
+__init__.py
+
+# VSCode
+.vscode/
+
+# Virtual envs
+venv/
+py37/
+.venv/
+
+# Data Folder
+data
+data/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
