@@ -1,6 +1,6 @@
 # Library Return Lateness Project
 
-This README documents the steps that are necessary to follow through the Library Return Lateness Project project. The project has a wrangler directory used for preprocessing, visualization, text preprocessing and building of pipelines. Steps like outlier detection, NaN handling, and data engineering are contained in the data_preprocessing.py python file. The library_late_return Workbook (a Jupyter Notebook) is where most of the code was executed and the outputs displayed. Lastly, the utils script located in wrangler has some useful modules to evaluate the supervised learning algorithm used as demonstrated in the notebook.
+This README documents the steps that are necessary to follow through the Library Return Lateness project. The project has a wrangler directory used for preprocessing, visualization, text preprocessing and building of pipelines. Steps like outlier detection, NaN handling, and data engineering are contained in the data_preprocessing.py python file. The library_late_return Workbook (a Jupyter Notebook) is where most of the code was executed and the outputs displayed. Lastly, the utils script located in wrangler has some useful modules to evaluate the supervised learning algorithm used as demonstrated in the notebook.
 
 ### What is this repository for? ###
 
